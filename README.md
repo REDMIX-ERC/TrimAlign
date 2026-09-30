@@ -81,16 +81,16 @@ All adjustable from the GUI (defaults work for most cases):
 
 See the [LICENSE](LICENSE) file.
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 
-## 🗺️ Author
+## Author
 
 **Tiziana Pasciuto** – Conception, design, and creation.  
 
-## 💰 Funding
+## Funding
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 This work is supported by **ERC Grant REDMIX – Agreement 101124725**.
