@@ -11,7 +11,7 @@ A GUI tool to **automatically crop black borders** from scanned/photographed doc
 - **Packaged as a single `.exe`**: end users don't need Python installed
 
 
-## 🚀 Usage
+## 🚀 Usage  
 
 ### Option A — With Python installed
 
