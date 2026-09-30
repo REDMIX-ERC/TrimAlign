@@ -1,6 +1,6 @@
 # TrimAlign
 
-A GUI tool to **automatically crop black borders** from scanned/photographed documents and **straighten the page**, designed for users who don't want to deal with command-line tools.
+A GUI tool to **automatically crop black borders** from scanned/photographed documents and **straighten the page**, designed for users who don't want to deal with command-line tools.  
 
 ## Features
 
